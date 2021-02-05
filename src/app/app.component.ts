@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'topcoder-learning-angular';
+  title = 'Topcoder Angular Level 1';
 }
